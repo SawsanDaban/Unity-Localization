@@ -1,0 +1,14 @@
+{
+  "light": {
+    "textColor": "#000000",
+    "backgroundColor": "#FFFFFF",
+    "buttonColor": "#FFFFFF",
+    "buttonTextColor": "#000000"
+  },
+  "dark": {
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000",
+    "buttonColor": "#000000",
+    "buttonTextColor": "#FFFFFF"
+  }
+}
